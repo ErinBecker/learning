@@ -7,3 +7,8 @@ Chated at Reproducible Research for Jupyter Notebooks Hackathon yesterday and he
 analysis of ancient Semetic texts. He's exploring using distance matrices to investigate relationships among texts. This work may benefit from
 looking at existing distance matrices as used for phylogenetics, or possibly other textual processing work in R. Gabe mentioned previous work
 on textual distance analysis in R. Need to look into the details. This could potentially be a really fun collaboration!
+
+## Wednesday January 18, 2017  
+Check out [this repository](https://github.com/ErinBecker/digital-humanities-phylogenetics) for progress on collaboration with Nick Veldhuis.  
+
+
